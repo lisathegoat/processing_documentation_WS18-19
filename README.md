@@ -8,7 +8,7 @@ Data vis of the Meteors from the year x-x mapped on a sphere
 
 ## Ping Pong Ufo
 
-the Aliens want to get to the world but the you (aka. the monolit) have to protect it. Press the up and down keys to move the monolit.  
+The games scenario shows aliens who want to undertake the world. The only was to stop them is to control the monolit the up and down keys to for moving.  
 
 
 ## Voyeur 
