@@ -2,15 +2,20 @@
 creative codeing
 
 ## Sphere_data_vis
+
 Data vis of the Meteors from the year x-x mapped on a sphere
 
 
-## Cells  under a microscope
-discription
+## Ping Pong Ufo
 
-## rotate font 
+the Aliens want to get to the world but the you (aka. the monolit) have to protect it. Press the up and down keys to move the monolit.  
 
-Practice with fonts and for-loops.
-_Use your mouse to control the font._
+## Attention 
+
+The eyes are tracking your mouse movement and watching it except of one pair.
+
+## Voyeur 
+
+The eyes are tracking your mouse movement and following it... except of one pair.
 
 
