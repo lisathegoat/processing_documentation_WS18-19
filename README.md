@@ -1,5 +1,5 @@
 # Processing documentation WS18/19
-creative codeing
+creative codeing (){
 
 ## Sphere_data_vis
 
@@ -18,3 +18,6 @@ The eyes are tracking your mouse movement and following it... except of one pair
 ## Atlas
 
 The work is an interpretation of the statue atlas. It shows it holding an glimming globe.
+
+
+}
