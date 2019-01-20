@@ -3,10 +3,14 @@ creative codeing (){
 
 ## Sphere_data_vis
 
+![3] https://github.com/lisathegoat/processing_documentation_WS18-19/blob/master/Images/5.png
+
 Data vis of the Meteors from the year x-x mapped on a sphere
 
 
 ## Ping Pong Ufo
+
+![3] https://github.com/lisathegoat/processing_documentation_WS18-19/blob/master/Images/3.png
 
 The games scenario shows aliens who want to undertake the world. The only was to stop them is to control the monolit the up and down keys to for moving.  
 
@@ -15,7 +19,10 @@ The games scenario shows aliens who want to undertake the world. The only was to
 
 The eyes are tracking your mouse movement and following it... except of one pair.
 
+![1] https://github.com/lisathegoat/processing_documentation_WS18-19/blob/master/Images/1.png
 ## Atlas
+
+![2] https://github.com/lisathegoat/processing_documentation_WS18-19/blob/master/Images/2.png
 
 The work is an interpretation of the statue atlas. It shows it holding an glimming globe.
 
