@@ -16,9 +16,10 @@ Mouse: control Alien
 
 ## Voyeur 
 
+![1](https://github.com/lisathegoat/processing_documentation_WS18-19/blob/master/Images/1.png)
+
 This work is an interactive cover of a poster. The eyes are following the mouse movement ... except of one pair.
 
-![1](https://github.com/lisathegoat/processing_documentation_WS18-19/blob/master/Images/1.png)
 ## Atlas
 
 ![2](https://github.com/lisathegoat/processing_documentation_WS18-19/blob/master/Images/2.png)
